@@ -26,6 +26,12 @@
         </div>
 
     </nav>
+    <section id="section">
+        <article class="article">
+
+        </article>
+    </section>
+
 </header>
 </body>
 </html>
