@@ -11,7 +11,20 @@
 <body>
 <header class="header">
     <nav class="nav_bar">
-        <img id="logo" src="images/logo.png" alt="logo">
+        <div class="titte_bar">
+            <span>Blog de Vava</span>
+            <img id="logo" src="images/logo.png" alt="logo">
+        </div>
+
+        <div class="outils">
+            <div class="search_bar">
+                <input type="text" placeholder="Rechercher">
+                <a href=""><img src="images/search_logo.png" alt="" id="search_logo"></a>
+            </div>
+            <input type="button" value="Connexion" class="log_button">
+            <input type="button" value="Création d'un blog" class="create_button">
+        </div>
+
     </nav>
 </header>
 </body>
